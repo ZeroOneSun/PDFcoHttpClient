@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Net.Http;
 
-namespace PDFcoHttpClient
+namespace PDFco.Net.Http
 {
     public interface IHttpClientFactory : IDisposable
     {

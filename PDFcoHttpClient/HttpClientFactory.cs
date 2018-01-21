@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Threading;
 
-namespace PDFcoHttpClient
+namespace PDFco.Net.Http
 {
     /// <summary>
     /// Lifetime of this class should be set to `Singleton`.
